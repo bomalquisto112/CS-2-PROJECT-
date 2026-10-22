@@ -7,8 +7,5 @@ This file records all the changes and additions we made all throughout making ou
 - Planned program features
 - Added add task and remove task feature
 
-## Version v1.0.1 - Not yet
-- None yet
-
-## Version v2.0.0 - Not yet
-- None yet
+## Version v1.0.1 - October 21, 2026
+- Revised the proposal by adding the general objective and specific objectives.
